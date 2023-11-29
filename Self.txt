@@ -1,0 +1,12 @@
+**PYTHON LIBRARIES**
+
+MONDODB:
+- Library's name: pymongo
+- create a MongoClient() object to stablish a connectivity with Mongo's Cloud_OR_Server.
+- It is not a classic DB using tables to store infornmation it uses like a JSON data structure.
+- Due to that the Application should be faster.
+
+AZUREKEYVAULT:
+- Library's name: azure
+- Classes used: SecretClient and DefaultAzureCredential
+- uniform resource identifier (URI)
